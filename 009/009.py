@@ -46,4 +46,4 @@ def find_contig():
 
 print("Part A: ", find_first_fault()[0])
 
-print("Part B: ", find_contig())
+print("Part B: `", find_contig())
